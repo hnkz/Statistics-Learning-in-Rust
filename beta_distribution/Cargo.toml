@@ -1,0 +1,6 @@
+[package]
+name = "beta_distribution"
+version = "0.1.0"
+authors = ["Kazuki Hanai <cs16075@s.inf.shizuoka.ac.jp>"]
+
+[dependencies]
